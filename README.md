@@ -1,2 +1,2 @@
 # Maven-to-Gradle-conversion
-for Java class
+for the Java class
