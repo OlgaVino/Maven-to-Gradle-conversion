@@ -1,0 +1,13 @@
+<application>
+  <component name="libraryTable">
+    <library name="java">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Documents/UCLAx App Programming/Java/MyAndroidApplication/app/src/androidTest/java" />
+        <root url="file://$USER_HOME$/Documents/UCLAx App Programming/Java/MyAndroidApplication/app/src/main/java" />
+        <root url="file://$USER_HOME$/Documents/UCLAx App Programming/Java/MyAndroidApplication/app/src/test/java" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
